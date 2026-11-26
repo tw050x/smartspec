@@ -1,6 +1,6 @@
 > **This repository has moved.** Development continues in
-> [tw050x/smartsuite](https://github.com/tw050x/smartsuite), under
-> [`apps/smartspec`](https://github.com/tw050x/smartsuite/tree/master/apps/smartspec), with this repository's
+> [tw050x/smartdesktop](https://github.com/tw050x/smartdesktop), under
+> [`apps/smartspec`](https://github.com/tw050x/smartdesktop/tree/master/apps/smartspec), with this repository's
 > history. This one is kept for its earlier releases and is no longer updated.
 
 # SmartSpec
